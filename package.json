@@ -1,7 +1,7 @@
 {
   "name": "streams-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "streams REST-ful server to perform crud operations",
   "main": "index.js",
   "scripts": {
     "start": "json-server -p 3001 -w db.json"
